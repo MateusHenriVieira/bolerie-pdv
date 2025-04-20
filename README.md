@@ -20,7 +20,6 @@ Sistema de Ponto de Venda (PDV) completo para gerenciamento de lojas de bolos e 
 - **Backend**: Firebase (Firestore, Authentication, Storage)
 - **Autenticação**: Firebase Authentication
 - **Banco de Dados**: Firestore
-- **Hospedagem**: Vercel
 
 ## Instalação
 
