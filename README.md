@@ -25,8 +25,8 @@ Sistema de Ponto de Venda (PDV) completo para gerenciamento de lojas de bolos e 
 
 1. Clone o repositório:
    \`\`\`bash
-   git clone https://github.com/seu-usuario/pdv-loja-bolos.git
-   cd pdv-loja-bolos
+   git clone https://github.com/MateusHenriVieira/bolerie-pdv.git
+   cd bolerie-pdv
    \`\`\`
 
 2. Instale as dependências:
